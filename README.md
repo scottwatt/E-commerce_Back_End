@@ -4,9 +4,9 @@ In this assignment I was tasked to make a mysql database and application backend
   
 Below is the video showing the functionality of the application:
   
-![Setup](https://drive.google.com/file/d/1py1DNQmhjHZaTZno47HLkItZKprC2Nml/view?usp=sharing)
+[Setup](https://drive.google.com/file/d/1py1DNQmhjHZaTZno47HLkItZKprC2Nml/view?usp=sharing)
 
-![Insomnia](https://drive.google.com/file/d/1FJxZeIIv4INzKNgqG9Uw_hFMavs2o-CP/view?usp=sharing)
+[Insomnia](https://drive.google.com/file/d/1FJxZeIIv4INzKNgqG9Uw_hFMavs2o-CP/view?usp=sharing)
 
 ### Create
 ![screenshot](./images/categoryCreate.png)
